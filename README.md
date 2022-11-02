@@ -18,7 +18,7 @@
 <p align='center'>
 </br>
 <a href="https://github.com/SokolKat">
-  <img height=170 src="https://github-readme-stats.vercel.app/api?username=IrLiss&theme=buefy&show_icons=true&count_private=true"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=SokolKat&theme=buefy&show_icons=true&count_private=true"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/SokolKat">
